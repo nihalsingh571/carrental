@@ -1,15 +1,9 @@
 {
     "version": 2,
-    "framework": null,
     "builds": [
         {
             "src": "api/index.php",
-            "use": "vercel-php@0.6.0",
-            "config": {
-                "runtime": "php8.0",
-                "extensions": ["openssl", "pdo_mysql", "mbstring", "xml", "curl", "gd", "zip"],
-                "includeFiles": "**/*.php"
-            }
+            "use": "vercel-php@0.6.0"
         }
     ],
     "routes": [
@@ -17,19 +11,5 @@
             "src": "/(.*)",
             "dest": "/api/index.php"
         }
-    ],
-    "env": {
-        "APP_ENV": "production",
-        "APP_DEBUG": "false",
-        "APP_CONFIG_CACHE": "/tmp/config.php",
-        "APP_EVENTS_CACHE": "/tmp/events.php",
-        "APP_PACKAGES_CACHE": "/tmp/packages.php",
-        "APP_ROUTES_CACHE": "/tmp/routes.php",
-        "APP_SERVICES_CACHE": "/tmp/services.php",
-        "VIEW_COMPILED_PATH": "/tmp",
-        "CACHE_DRIVER": "array",
-        "LOG_CHANNEL": "stderr",
-        "SESSION_DRIVER": "cookie",
-        "SSR": "false"
-    }
+    ]
 } 
