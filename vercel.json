@@ -4,7 +4,11 @@
     "builds": [
         {
             "src": "api/index.php",
-            "use": "@vercel/php@1.0.0"
+            "use": "@vercel/php@0.6.0",
+            "config": {
+                "runtime": "php8.1",
+                "extensions": ["openssl", "pdo_mysql", "mbstring", "xml", "curl", "gd", "zip"]
+            }
         }
     ],
     "routes": [
