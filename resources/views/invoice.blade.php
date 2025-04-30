@@ -126,14 +126,14 @@
             <h1>Invoice # {{ rand() }}__{{ $reservation->id }}</h1>
         </div>
         <p style="margin-bottom: 30px; font-weight: bold">You can go to any of our stores near you and
-            present your reservation invoice (digital or printed) and then pay and get your car</p>
+            present your reservation invoice (digital or printed) and then pay and get your Truck</p>
         <div class="inv-header">
             <div>
-                <h2 style="color: #ff9b00">Real Rent Car</h2>
+                <h2 style="color: #ff9b00">Simplex Express</h2>
                 <ul>
-                    <li>DR ANABDOUR AMMELEN </li>
-                    <li>TIZNIT</li>
-                    <li>+212637998660 | contact.galdi@gmail.com</li>
+                    <li>SHOP NO -4, BAHADURGARH </li>
+                    <li>Jhajjar, Haryana</li>
+                    <li>+212637998660 | contact.simplex@gmail.com</li>
                 </ul>
                 <h2>Client</h2>
                 <ul>
@@ -195,7 +195,7 @@
             </div>
 
         </div>
-        <h3 style="text-align: center; margin-top: 30px">Thank you for choosing and trusting our car company ❤️</h3>
+        <h3 style="text-align: center; margin-top: 30px">Thank you for choosing and trusting our trucks company ❤️</h3>
     </div>
     <script>
           window.addEventListener('load', function() {

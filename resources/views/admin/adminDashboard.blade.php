@@ -45,7 +45,7 @@
                                 </div>
                                 <div>
                                     <p class="text-lg font-medium text-pr-400 ">
-                                        Available Cars
+                                        Available Trucks
                                     </p>
                                     <p class="text-lg font-semibold text-gray-700 dark:text-gray-200">
                                         {{ $cars->where('status', 'Available')->count() }}

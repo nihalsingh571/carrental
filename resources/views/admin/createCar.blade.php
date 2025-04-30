@@ -5,7 +5,7 @@
             @csrf
             <div class="md:w-2/3 w-5/6 md:px-24 px-4 pb-8 mx-auto mt-2 space-y-12 bg-white border-2 border-gray-600 rounded-md">
                 <div class="pb-12 border-b border-gray-900/10">
-                    <h2 class="mt-2 text-lg font-bold leading-7 text-center text-gray-900">Fill the new car details</h2>
+                    <h2 class="mt-2 text-lg font-bold leading-7 text-center text-gray-900">Fill the new truck details</h2>
 
                     <div class="grid grid-cols-1 mt-10 gap-x-6 gap-y-8 sm:grid-cols-6">
 

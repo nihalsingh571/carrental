@@ -16,7 +16,7 @@
                             Name</label>
                         <input type="email" id="email"
                             class="shadow-sm bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-primary-500 focus:border-primary-500 block w-full p-2.5 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-primary-500 dark:focus:border-primary-500 dark:shadow-sm-light"
-                            placeholder="Mohamed" required>
+                            placeholder="Avinash" required>
                     </div>
 
                     <div class="w-full ">
@@ -24,7 +24,7 @@
                             Name</label>
                         <input type="email" id="email"
                             class="shadow-sm bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-primary-500 focus:border-primary-500 block w-full p-2.5 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-primary-500 dark:focus:border-primary-500 dark:shadow-sm-light"
-                            placeholder="Galdi" required>
+                            placeholder="Simplex" required>
                     </div>
                 </div>
                 <div class="flex justify-between">
@@ -33,7 +33,7 @@
                             class="block mb-2 text-sm font-medium text-gray-900 dark:text-gray-300">Email</label>
                         <input type="email" id="email"
                             class="shadow-sm bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-primary-500 focus:border-primary-500 block w-full p-2.5 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-primary-500 dark:focus:border-primary-500 dark:shadow-sm-light"
-                            placeholder="contact.galdi@gmail.com" required>
+                            placeholder="contact.simplex@gmail.com" required>
                     </div>
 
                     <div class="w-full ">
@@ -84,8 +84,8 @@
                     </svg>
                 </div>
                 <h2 class="text-lg font-bold text-gray-800 font-car">Company information:</h2>
-                <p class="text-sm font-light text-gray-700 font-car">RealRentCar LLC</p>
-                <p class="text-sm font-light text-gray-700 font-car">Location: Morocco</p>
+                <p class="text-sm font-light text-gray-700 font-car">Simplex Express</p>
+                <p class="text-sm font-light text-gray-700 font-car">Location: Jalandhar, Punjab</p>
             </div>
             <div>
                 <div class="w-20 p-6 mx-auto mb-3 bg-gray-200 rounded-md ">
@@ -101,8 +101,8 @@
                     </svg>
                 </div>
                 <h2 class="text-lg font-bold text-gray-800 font-car">Address:</h2>
-                <p class="text-sm font-light text-gray-700 font-car">DR ANABDOUR AMMELEN TIZNIT</p>
-                <p class="text-sm font-light text-gray-700 font-car">Zip Code/Postal code:85450</p>
+                <p class="text-sm font-light text-gray-700 font-car">BH3, Jalandhar, Punjab</p>
+                <p class="text-sm font-light text-gray-700 font-car">Zip Code/Postal code: 144411</p>
             </div>
             <div>
                 <div class="w-20 p-6 mx-auto mb-3 bg-gray-200 rounded-md ">

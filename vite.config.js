@@ -7,9 +7,14 @@ export default defineConfig({
             input: [
                 "resources/css/app.css",
                 "resources/js/app.js",
-                "node_modules/flowbite/dist/flowbite.min.js",
             ],
             refresh: true,
         }),
     ],
+    resolve: {
+        alias: {
+            'flowbite': 'flowbite/dist/flowbite.min.js',
+            'flatpickr': 'flatpickr/dist/flatpickr.js',
+        },
+    },
 });
