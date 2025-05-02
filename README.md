@@ -1,5 +1,6 @@
 # RealRentCar - Truck Rental Management System
-
+## deployment - 
+https://realrentcar.galdi.dev/
 ## Project Overview
 RealRentCar is a comprehensive digital solution designed to revolutionize the truck rental business. This web application streamlines the process of truck rentals, making it easier for both customers and administrators to manage bookings, track vehicles, and handle payments.
 
